@@ -11743,7 +11743,7 @@
 				<BlockGenusMember>subroutine-ref_var</BlockGenusMember>
 				<BlockGenusMember>ref_var</BlockGenusMember>
 			</BlockDrawer>
-			<BlockDrawer button-color="29 152 155" name="bd.pins" type="factory">
+			<BlockDrawer button-color="0 0 0" name="bd.pins" type="factory">
 				<BlockGenusMember>pin-write-digital</BlockGenusMember>
 				<BlockGenusMember>pin-toggle</BlockGenusMember>
 				<BlockGenusMember>pin-read-digital</BlockGenusMember>
@@ -11794,7 +11794,7 @@
 				<BlockGenusMember>toint</BlockGenusMember>
 				<BlockGenusMember>constrain</BlockGenusMember>
 			</BlockDrawer>
-			<BlockDrawer button-color="232 156 149" name="bd.number" type="factory">
+			<BlockDrawer button-color="235 52 219" name="bd.number" type="factory">
 				<BlockGenusMember>number</BlockGenusMember>
 				<BlockGenusMember>setter_variable_number</BlockGenusMember>
 				<BlockGenusMember>variable_number</BlockGenusMember>
@@ -11926,7 +11926,7 @@
 				<BlockGenusMember>df_digital_push_button</BlockGenusMember>
 				<BlockGenusMember>df_digital_viberation_sensor</BlockGenusMember>
 				<BlockGenusMember>df_analog_rotation_sensor_v1</BlockGenusMember>
-				<BlockGenusMember>df_analog_rotation_sensor_v2</BlockGenusMember>
+				<!--<BlockGenusMember>df_analog_rotation_sensor_v2</BlockGenusMember>-->
 				<BlockGenusMember>df_servo</BlockGenusMember>
 				<BlockGenusMember>df_360_degree_rotation_motor</BlockGenusMember>
 				<BlockGenusMember>df_analog_sound_sensor</BlockGenusMember>

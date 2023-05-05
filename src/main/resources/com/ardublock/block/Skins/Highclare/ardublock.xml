@@ -9249,7 +9249,7 @@
 				<BlockGenusMember>repeat</BlockGenusMember>
 				<BlockGenusMember>repeat_control</BlockGenusMember>
 			</BlockDrawer>
-			<BlockDrawer button-color="183 28 28" name="bd.pins" type="factory">
+			<BlockDrawer button-color="0 0 0" name="bd.pins" type="factory">
 				<BlockGenusMember>pin-read-digital</BlockGenusMember>
 				<BlockGenusMember>pin-read-digital-pullup</BlockGenusMember>
 				<BlockGenusMember>pin-read-analog</BlockGenusMember>

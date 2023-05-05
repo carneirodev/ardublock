@@ -11743,7 +11743,7 @@
 				<BlockGenusMember>subroutine-ref_var</BlockGenusMember>
 				<BlockGenusMember>ref_var</BlockGenusMember>
 			</BlockDrawer>
-			<BlockDrawer button-color="29 152 155" name="bd.pins" type="factory">
+			<BlockDrawer button-color="0 0 0" name="bd.pins" type="factory">
 				<BlockGenusMember>pin-write-digital</BlockGenusMember>
 				<BlockGenusMember>pin-toggle</BlockGenusMember>
 				<BlockGenusMember>pin-read-digital</BlockGenusMember>
